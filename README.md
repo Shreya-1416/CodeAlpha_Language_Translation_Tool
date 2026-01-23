@@ -31,7 +31,7 @@ It supports text translation, speech input, text-to-speech, dark/light mode, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Language-Translation-Tool.git
+   git clone https://github.com/Shreya-1416/CodeAlpha-Language-Translation-Tool.git
 
 Open index.html in your browser
 (No server required)
