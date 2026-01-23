@@ -44,8 +44,8 @@ Common phrases are handled using a built-in dictionary to ensure accuracy.
 
 Best results are obtained with complete sentences.
 
-📷 Preview
+## 📷 Preview: 
 
-👤 Author
+## 👤 Author
 Shreya Gupta
 
