@@ -44,7 +44,7 @@ Common phrases are handled using a built-in dictionary to ensure accuracy.
 
 Best results are obtained with complete sentences.
 
-## 📷 Preview: 
+## 📷 Preview: https://codealpha-language-translation-tool.vercel.app/
 
 ## 👤 Author
 Shreya Gupta
